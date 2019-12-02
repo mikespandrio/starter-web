@@ -7,3 +7,5 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 ## Changes made as part of new-feature!!
+
+## Now making some changes in the UI to fetch
